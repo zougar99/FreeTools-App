@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+contacts.json
+notes.txt
+tasks.txt
+app.log
+qrcode.png
